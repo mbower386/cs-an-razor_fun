@@ -1,0 +1,13 @@
+.header {
+    width: 70%;
+    margin: 20px auto;
+}
+
+.fruit-container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.red-text {
+    color: red;
+}
